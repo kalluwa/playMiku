@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>eye2.bmp</Source>
+      <Name>eye2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\PlayMiku\PlayMiku\bin\Windows Phone\Debug\Content\eye2.xnb</Output>
+      <Time>2014-08-22T00:29:51.658592+08:00</Time>
+    </Item>
+    <Item>
+      <Source>mark.bmp</Source>
+      <Name>mark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\PlayMiku\PlayMiku\bin\Windows Phone\Debug\Content\mark.xnb</Output>
+      <Time>2014-09-08T19:00:03.6521821+08:00</Time>
+    </Item>
+    <Item>
+      <Source>eye.bmp</Source>
+      <Name>eye</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\PlayMiku\PlayMiku\bin\Windows Phone\Debug\Content\eye.xnb</Output>
+      <Time>2014-09-08T19:00:26.815507+08:00</Time>
+    </Item>
+    <Item>
+      <Source>eye4.bmp</Source>
+      <Name>eye4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\PlayMiku\PlayMiku\bin\Windows Phone\Debug\Content\eye4.xnb</Output>
+      <Time>2014-09-14T18:20:39.462641+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Miku.pmd</Source>
+      <Name>Models\Miku</Name>
+      <Importer>PmdImporter</Importer>
+      <Processor>PMDProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\PlayMiku\PlayMiku\bin\Windows Phone\Debug\Content\Models\Miku.xnb</Output>
+      <Time>2014-08-22T00:29:51.6855935+08:00</Time>
+      <Request>C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\PlayMiku\PlayMiku\bin\Windows Phone\Debug\Content\eye2.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\model_1.pmd</Source>
+      <Name>Models\model_1</Name>
+      <Importer>PmdImporter</Importer>
+      <Processor>PMDProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\PlayMiku\PlayMiku\bin\Windows Phone\Debug\Content\Models\model_1.xnb</Output>
+      <Time>2014-09-14T18:20:39.5126439+08:00</Time>
+      <Request>C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\PlayMiku\PlayMiku\bin\Windows Phone\Debug\Content\eye4.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\sphere.x</Source>
+      <Name>Models\sphere</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\PlayMiku\PlayMiku\bin\Windows Phone\Debug\Content\Models\sphere.xnb</Output>
+      <Time>2014-08-22T15:52:11.0321561+08:00</Time>
+      <Dependency>
+        <Key>C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\PlayMiku\PlayMiku\obj\Windows Phone\Debug\Models\sphere_0.xml</Key>
+        <Value>2014-10-08T22:39:52.9734761+08:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Anims\TrueMyHeart.vmd</Source>
+      <Name>Anims\TrueMyHeart</Name>
+      <Importer>VmdImporter</Importer>
+      <Processor>VmdProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\PlayMiku\PlayMiku\bin\Windows Phone\Debug\Content\Anims\TrueMyHeart.xnb</Output>
+      <Time>2014-08-23T00:43:09.015729+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Anims\Dreamfighter.vmd</Source>
+      <Name>Anims\Dreamfighter</Name>
+      <Importer>VmdImporter</Importer>
+      <Processor>VmdProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\PlayMiku\PlayMiku\bin\Windows Phone\Debug\Content\Anims\Dreamfighter.xnb</Output>
+      <Time>2014-09-08T17:26:45.1409656+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Anims\anim1.vmd</Source>
+      <Name>Anims\anim1</Name>
+      <Importer>VmdImporter</Importer>
+      <Processor>VmdProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\PlayMiku\PlayMiku\bin\Windows Phone\Debug\Content\Anims\anim1.xnb</Output>
+      <Time>2014-09-08T17:34:08.092301+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Anims\lamb.vmd</Source>
+      <Name>Anims\lamb</Name>
+      <Importer>VmdImporter</Importer>
+      <Processor>VmdProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\PlayMiku\PlayMiku\bin\Windows Phone\Debug\Content\Anims\lamb.xnb</Output>
+      <Time>2014-09-12T23:47:14.513383+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\PlayMiku\PlayMiku\bin\Windows Phone\Debug\Content\Font.xnb</Output>
+      <Time>2014-08-23T16:33:47.2638895+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\sphere.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\PlayMiku\PlayMiku\obj\Windows Phone\Debug\Models\sphere_0.xml</Output>
+      <Time>2014-08-22T15:52:11.0321561+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3E51085D-9D3C-4DE6-B947-EA04CEFD87C0}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\PlayMiku\PlayMikuContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\PlayMiku\PlayMiku\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\PlayMiku\PlayMiku\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\PlayMiku\PlayMiku\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\MMDModelImporter\bin\Debug\MMDModelImporter.dll</Key>
+        <Value>2014-09-13T10:34:11.4267441+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-10-21T22:56:11.1490112+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

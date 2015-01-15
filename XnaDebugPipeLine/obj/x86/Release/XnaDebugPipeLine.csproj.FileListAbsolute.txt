@@ -1,0 +1,7 @@
+C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\XnaDebugPipeLine\bin\Release\Targets\Debugging.targets
+C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\XnaDebugPipeLine\bin\Release\XnaDebugPipeLine.exe.config
+C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\XnaDebugPipeLine\bin\Release\XnaDebugPipeLine.exe
+C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\XnaDebugPipeLine\bin\Release\XnaDebugPipeLine.pdb
+C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\XnaDebugPipeLine\obj\x86\Release\XnaDebugPipeLine.csprojResolveAssemblyReference.cache
+C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\XnaDebugPipeLine\obj\x86\Release\XnaDebugPipeLine.exe
+C:\Users\kalluwa\Documents\Visual Studio 2010\Projects\PlayMiku\XnaDebugPipeLine\obj\x86\Release\XnaDebugPipeLine.pdb

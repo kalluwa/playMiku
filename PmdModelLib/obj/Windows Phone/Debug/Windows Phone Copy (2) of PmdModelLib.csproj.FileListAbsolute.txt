@@ -1,0 +1,6 @@
+C:\Users\kalluwa\documents\visual studio 2010\Projects\PlayMiku\PmdModelLib\bin\Windows Phone\Debug\PmdModelLib.dll
+C:\Users\kalluwa\documents\visual studio 2010\Projects\PlayMiku\PmdModelLib\bin\Windows Phone\Debug\PmdModelLib.pdb
+C:\Users\kalluwa\documents\visual studio 2010\Projects\PlayMiku\PmdModelLib\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\kalluwa\documents\visual studio 2010\Projects\PlayMiku\PmdModelLib\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\kalluwa\documents\visual studio 2010\Projects\PlayMiku\PmdModelLib\obj\Windows Phone\Debug\PmdModelLib.dll
+C:\Users\kalluwa\documents\visual studio 2010\Projects\PlayMiku\PmdModelLib\obj\Windows Phone\Debug\PmdModelLib.pdb

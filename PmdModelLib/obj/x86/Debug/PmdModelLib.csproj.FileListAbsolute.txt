@@ -1,0 +1,6 @@
+C:\Users\kalluwa\documents\visual studio 2010\Projects\PlayMiku\PmdModelLib\bin\x86\Debug\PmdModelLib.dll
+C:\Users\kalluwa\documents\visual studio 2010\Projects\PlayMiku\PmdModelLib\bin\x86\Debug\PmdModelLib.pdb
+C:\Users\kalluwa\documents\visual studio 2010\Projects\PlayMiku\PmdModelLib\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kalluwa\documents\visual studio 2010\Projects\PlayMiku\PmdModelLib\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\kalluwa\documents\visual studio 2010\Projects\PlayMiku\PmdModelLib\obj\x86\Debug\PmdModelLib.dll
+C:\Users\kalluwa\documents\visual studio 2010\Projects\PlayMiku\PmdModelLib\obj\x86\Debug\PmdModelLib.pdb

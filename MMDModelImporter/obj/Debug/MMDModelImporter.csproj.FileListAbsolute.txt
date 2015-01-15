@@ -1,0 +1,7 @@
+C:\Users\kalluwa\documents\visual studio 2010\Projects\PlayMiku\MMDModelImporter\bin\Debug\MMDModelImporter.dll
+C:\Users\kalluwa\documents\visual studio 2010\Projects\PlayMiku\MMDModelImporter\bin\Debug\MMDModelImporter.pdb
+C:\Users\kalluwa\documents\visual studio 2010\Projects\PlayMiku\MMDModelImporter\bin\Debug\PmdModelLib.dll
+C:\Users\kalluwa\documents\visual studio 2010\Projects\PlayMiku\MMDModelImporter\bin\Debug\PmdModelLib.pdb
+C:\Users\kalluwa\documents\visual studio 2010\Projects\PlayMiku\MMDModelImporter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kalluwa\documents\visual studio 2010\Projects\PlayMiku\MMDModelImporter\obj\Debug\MMDModelImporter.dll
+C:\Users\kalluwa\documents\visual studio 2010\Projects\PlayMiku\MMDModelImporter\obj\Debug\MMDModelImporter.pdb
